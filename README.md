@@ -22,3 +22,8 @@ Write vagrant file
 nano Vagrantfile
 ``` 
 
+Align virtualbox version 
+``` 
+vagrant plugin install vagrant-vbguest
+``` 
+
